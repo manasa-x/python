@@ -1,2 +1,2 @@
-# java
-learning oops through java -
+# python
+practice projects -
